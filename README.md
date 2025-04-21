@@ -1,0 +1,1 @@
+# Ex.no_7-_NPC_-Path-finding-with-Static-and-Dynamic-Obstacles-using-AI-Navigation
